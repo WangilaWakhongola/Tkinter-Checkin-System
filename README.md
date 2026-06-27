@@ -1,4 +1,4 @@
-# Check-In System 🎟️
+# Check-In System 
 
 A simple event check-in desktop app built with **Python** and **Tkinter**.
 
@@ -34,4 +34,4 @@ checkin_system/
 
 ## Author
 
-Emmanuel — [github.com/WangilaWakhongola](https://github.com/WangilaWakhongola)
+Wakhongola — [github.com/WangilaWakhongola](https://github.com/WangilaWakhongola)
