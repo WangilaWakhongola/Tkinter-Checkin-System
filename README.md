@@ -11,7 +11,7 @@ A simple event check-in desktop app built with **Python** and **Tkinter**.
 
 ## Screenshots
 
-> _Run the app to see it in action!_
+> _Run the app to see it in action!
 
 ## Requirements
 
